@@ -37,7 +37,11 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
+<<<<<<< HEAD
   /*background: aqua;*/
+=======
+  background: aqua;
+>>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
 }
 
 /* Descendent Selector */
@@ -66,6 +70,7 @@ figcaption {
   color: red;
 }
 
+<<<<<<< HEAD
 /*/////// MEDIA ///////*/
 
 img, video, audio {
@@ -152,3 +157,5 @@ section {
   height: 40px;
   background: yellow;
 }
+=======
+>>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
