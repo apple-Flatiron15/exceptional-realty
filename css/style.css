@@ -38,7 +38,11 @@ figcaption {
 
 #logo { /* select elements with id="logo" */
 <<<<<<< HEAD
+<<<<<<< HEAD
   /*background: aqua;*/
+=======
+  background: aqua;
+>>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
 =======
   background: aqua;
 >>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
@@ -70,6 +74,7 @@ figcaption {
   color: red;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 /*/////// MEDIA ///////*/
 
@@ -157,5 +162,7 @@ section {
   height: 40px;
   background: yellow;
 }
+=======
+>>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
 =======
 >>>>>>> 458a371d84e619a7bdabcda9cd55b4e2861d304a
